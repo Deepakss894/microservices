@@ -1,4 +1,4 @@
-package com.microserices.accounts;
+package com.microservices.accounts;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
